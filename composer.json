@@ -2,15 +2,15 @@
 	"config" : {
 		"optimize-autoloader" : true
 	},
-	"autoload" : {
-		"psr-4" : {
-			"ACES\\" : "security/",
-			"JD\\" : "jd/"
+	"autoload": {
+		"psr-4": {
+			"Purnamasari\\JdClient\\": "",
+			"JdClient\\": "jd/"
 		}
 	},
 	"name" : "purnamasari/aces-php-sdk",
 	"type" : "library",
-	"description": "aces php sdk",
+	"description": "aces php sdk laravel",
 	"version": "1.0.0",
 	"require" : {
 		"php" : ">=5.6",
