@@ -1,5 +1,5 @@
 <?php
- namespace Purnamasari\JD\Request;
+ namespace Purnamasari\JDRequest;
 
 class BrandBrandSdkQueryBrandListByPageRequest
 {

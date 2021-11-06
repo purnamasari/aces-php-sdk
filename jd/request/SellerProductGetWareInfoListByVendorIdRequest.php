@@ -1,5 +1,5 @@
 <?php
- namespace Purnamasari\Jos\JD\Request;
+ namespace Purnamasari\JDRequest;
 
 class SellerProductGetWareInfoListByVendorIdRequest
 {
