@@ -4,8 +4,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Purnamasari\\JdClient\\": "",
-			"JdClient\\": "jd/"
+			"Purnamasari\\JdClient\\": "jd/"
 		}
 	},
 	"name" : "purnamasari/aces-php-sdk",
