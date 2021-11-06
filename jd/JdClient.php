@@ -1,4 +1,6 @@
 <?php
+namespace Purnamasari\JdClient;
+
 class JdClient
 {
 	public $serverUrl = "https://open-api.jd.co.th/routerjson";

@@ -1,4 +1,6 @@
 <?php
+ namespace Purnamasari\JdClient\Request;
+
 class SellerOrderGetOrderInfoByOrderIdRequest
 {
 	private $apiParas = array();

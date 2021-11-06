@@ -1,4 +1,6 @@
 <?php
+ namespace Purnamasari\JdClient\Request;
+
 class SellerProductApiReadGetSkuImgsBySpuIdRequest
 {
 	private $apiParas = array();

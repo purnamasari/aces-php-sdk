@@ -1,4 +1,6 @@
 <?php
+ namespace Purnamasari\JdClient\Request;
+
 class SellerProductApiWriteOffShelfRequest
 {
 	private $apiParas = array();
