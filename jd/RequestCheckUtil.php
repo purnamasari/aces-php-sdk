@@ -1,5 +1,5 @@
 <?php
-namespace Purnamasari\JdClient;
+namespace Purnamasari\JD;
 
 /**
  * API入参静态检查类

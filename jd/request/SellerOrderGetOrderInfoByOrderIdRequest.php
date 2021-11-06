@@ -1,5 +1,5 @@
 <?php
- namespace Purnamasari\JdClient\Request;
+ namespace Purnamasari\JD\Request;
 
 class SellerOrderGetOrderInfoByOrderIdRequest
 {
