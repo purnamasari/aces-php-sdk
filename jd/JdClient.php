@@ -1,5 +1,6 @@
 <?php
 namespace Purnamasari\JD;
+use DateTimeZone;
 
 class JdClient
 {
@@ -105,7 +106,7 @@ class JdClient
 	{
 		//��װϵͳ����
         $sysParams["app_key"] = $this->appKey;
-        $version = $request->getVersion();
+        //$version = $request->getVersion();
 
         $sysParams["v"] = empty($version)? $this->version:$version;
         $sysParams["method"] = $request->getApiMethodName();
