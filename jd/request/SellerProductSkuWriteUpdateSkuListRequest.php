@@ -1,5 +1,5 @@
 <?php
- namespace Purnamasari\JDRequest;
+ namespace Purnamasari\JD\Request;
 
 class SellerProductSkuWriteUpdateSkuListRequest
 {
