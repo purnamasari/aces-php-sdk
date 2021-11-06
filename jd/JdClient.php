@@ -1,5 +1,5 @@
 <?php
-namespace Purnamasari\Jos\JD;
+namespace Purnamasari\JD;
 
 class JdClient
 {
