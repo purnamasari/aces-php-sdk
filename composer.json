@@ -4,10 +4,10 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Purnamasari\\JdClient\\": "jd/"
+			"Purnamasari\\Jos\\JD\\": "JD/"
 		}
 	},
-	"name" : "purnamasari/aces-php-sdk",
+	"name" : "purnamasari/jos",
 	"type" : "library",
 	"description": "aces php sdk laravel",
 	"version": "1.0.0",
